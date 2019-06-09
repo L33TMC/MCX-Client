@@ -6081,6 +6081,78 @@
       "installedTargets": []
     },
     {
+      "addonID": 278645,
+      "gameInstanceID": "b6fc8a2a-2699-486c-9217-7e3681ae24ba",
+      "installedFile": {
+        "id": 2593792,
+        "displayName": "Better Vanilla 1.7.1 [1.12].zip",
+        "fileName": "Better Vanilla 1.7.1 [1.12].zip",
+        "fileDate": "2018-07-28T13:35:40.263Z",
+        "fileLength": 2408763,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2593/792/Better Vanilla 1.7.1 [1.12].zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "assets",
+            "fingerprint": 2516353172,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3589967040,
+            "type": 0
+          },
+          {
+            "foldername": "pack.png",
+            "fingerprint": 4036793606,
+            "type": 0
+          },
+          {
+            "foldername": "readme (credits).txt",
+            "fingerprint": 2815697481,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 878172761,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.11",
+          "1.11.1",
+          "1.11.2",
+          "1.11-Snapshot",
+          "1.12.2",
+          "1.12-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "Better Vanilla 1.7.1 [1.12].zip"
+      },
+      "dateInstalled": "2019-06-09T23:01:16.458776Z",
+      "dateUpdated": "2019-06-09T23:01:16.4647814Z",
+      "dateLastUpdateAttempted": "2019-06-09T23:01:16.4647814Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 248453,
       "gameInstanceID": "b6fc8a2a-2699-486c-9217-7e3681ae24ba",
       "installedFile": {
