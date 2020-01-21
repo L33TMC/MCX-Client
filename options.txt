@@ -11,11 +11,11 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:1
 renderClouds:fast
-resourcePacks:["Better Vanilla 1.7.1 [1.12].zip","ClearPumpkin+.zip","ctp_1.2_MCv3.zip","Redstone++ [16x] (v1.3 mc1.12).zip","Clear Glass Pack 1.11 or 1.12.zip","Photon Frost\u0027s Clear Gui.zip"]
+resourcePacks:["Better Vanilla 1.7.1 [1.12].zip","ctp_1.2_MCv3.zip","Redstone++ [16x] (v1.3 mc1.12).zip","Clear Glass Pack 1.11 or 1.12.zip","Clear Vision 1.1.zip","L33TGUI 1.1.zip","Photon Frost\u0027s Clear Gui.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -87,9 +87,12 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_key.auginter.skipAnimation:45
 key_key.betterfoliage.gui:66
+key_itemscroller.desc.toggledisable:31:CONTROL
+key_itemscroller.desc.recipe:31
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
+key_key.openNotes:49
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:43:CONTROL
@@ -115,8 +118,7 @@ key_Options Gui:23
 key_key.toggleCleanView:0
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
-key_Command Key: /help:0
-key_Command Key: /weather thunder:0
+key_key.hudtoggle:35
 key_FpsReducer.key.guiOpen:207
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
@@ -124,8 +126,8 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_invtweaks.key.sort:19
-key_keywizard.keybind.openKeyboardWizard:65
-key_gui.xaero_minimap_settings:21
+key_Open Key Wizard:65
+key_WorldEdit Reference:38
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
@@ -137,7 +139,11 @@ key_gui.xaero_waypoints_key:22
 key_gui.xaero_zoom_in:23
 key_gui.xaero_zoom_out:24
 key_gui.xaero_new_waypoint:48
-soundCategory_master:1.0
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_minimap_settings:21
+key_Command Key: /help:0
+key_Command Key: /weather thunder:0
+soundCategory_master:0.5070422
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
@@ -147,8 +153,6 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-soundCategory_ds_footsteps:1.0
-soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
