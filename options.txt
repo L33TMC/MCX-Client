@@ -133,6 +133,7 @@ key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
 key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
 key_gui.xaero_toggle_map:35
 key_gui.xaero_enlarge_map:44
 key_gui.xaero_waypoints_key:22
